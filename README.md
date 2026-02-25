@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Sou Guilherme de Paula<br>💻 Desenvolvedor Full-Stack<br>🐍 Python • ⚡ JS • ☕ Java • 🔧 C<br>🎯 Em constante evolução, criando projetos sólidos e eficientes
+👋 Olá! Sou Guilherme de Paula<br>💻 Desenvolvedor Full-Stack<br>🐍 Python • ⚡ JS • ☕ Java C<br>🎯 Em constante evolução, criando projetos sólidos e eficientes
 
 
 ## 🌐 Socials:
